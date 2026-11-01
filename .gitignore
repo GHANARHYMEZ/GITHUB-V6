@@ -1,0 +1,5 @@
+node_modules/
+dist/
+windows/www/
+android/www/
+android/android/
